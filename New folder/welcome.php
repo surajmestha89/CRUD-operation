@@ -18,6 +18,7 @@ padding:20px;};
 <p> click below button</P>
 <a href="http://localhost/phpproject/New folder/register.php" >register</a>
 <a href="http://localhost/phpproject/New folder/display.php" >display</a></div>
+<a href="http://localhost/phpproject/New folder/search.php" >search user</a></div>
 <center></body>
 </html>
 <?php $ufuf=7; ?>
