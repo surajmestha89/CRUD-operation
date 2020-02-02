@@ -56,11 +56,10 @@ $result= $con->query($sql);
  else {
     echo "0 results";
 }
-echo "</table> <br>";
+echo " <br>";
  echo "<a href='http://localhost/phpproject/New folder/register.php' >back to register page</a>";
-;
 //con->close()
-
+echo "<a href="http://localhost/phpproject/New folder/search.php" >search user</a></div>";
 ?>
 </table>
 </body>
