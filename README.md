@@ -6,7 +6,7 @@
                                       CRUD OPERATION USING PHP MYSQL.
     ----------------------------------------------------------------------------------------------------------------------     
     
-    -> this project is  basic crud operation using php  mysql 
+                      this project is  basic crud operation using php  mysql 
     
 REQUERMENTS :
    * wamp server or any other which has supports an pre installed below 
